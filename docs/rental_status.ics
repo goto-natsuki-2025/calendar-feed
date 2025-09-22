@@ -7,8 +7,8 @@ X-WR-CALNAME:八王子市図書館 返却期限
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:hachioji-20250927@library
-DTSTAMP:20250921T013414Z
-SUMMARY:返却期限：1件
+DTSTAMP:20250922T005149Z
+SUMMARY:返却：1件
 DESCRIPTION:・民主至上主義
 DTSTART;VALUE=DATE:20250927
 DTEND;VALUE=DATE:20250928
@@ -16,10 +16,19 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:hachioji-20251004@library
-DTSTAMP:20250921T013414Z
-SUMMARY:返却期限：1件
+DTSTAMP:20250922T005149Z
+SUMMARY:返却：1件
 DESCRIPTION:・オーバーツーリズム (観光に消費されないまちのつくり方)（更新可）
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251005
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hachioji-20251005@library
+DTSTAMP:20250922T005149Z
+SUMMARY:返却：12件
+DESCRIPTION:・TwitterからXへ 世界から青い鳥が消えた日 (ジャック・ドーシーからイーロン・マスクへ、炎上投稿、黒字化、買収をめぐる成功と失敗のすべて)（更新可）\n・エリート過剰生産が国家を滅ぼす（更新可）\n・ソニー×ホンダ (革新を背負う者たち)（更新可）\n・ヒトラーとプロパガンダ (ヴィジュアル版)（更新可）\n・ロボット倫理学 (ソーシャルロボットから軍事ドローンまで)（更新可）\n・国力研究 (日本列島を、強く豊かに。)\n・奈良時代の日本語 [日本語ライブラリー]（更新可）\n・死のロングウォーク [扶桑社ミステリー]（更新可）\n・皇室とメディア (「権威」と「消費」をめぐる一五〇年史) [新潮選書]（更新可）\n・経済学者のすごい思考法 (子育て、投資から臓器移植、紛争解決まで)（更新可）\n・言葉を復元する (比較言語学の世界) [ちくま学芸文庫]（更新可）\n・電気自動車は本当にエコなのか (サプライチェーンの資源争奪戦から環境破壊まで)（更新可）
+DTSTART;VALUE=DATE:20251005
+DTEND;VALUE=DATE:20251006
 END:VEVENT
 END:VCALENDAR
