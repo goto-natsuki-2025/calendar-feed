@@ -7,7 +7,7 @@ X-WR-CALNAME:八王子市図書館 返却期限
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:hachioji-20251005@library
-DTSTAMP:20251005T000000Z
+DTSTAMP:20251005T000008Z
 SUMMARY:返却：2冊
 DESCRIPTION:【返却（更新不可）】\n・国力研究\n・経済学者のすごい思考法
 DTSTART;VALUE=DATE:20251005
@@ -16,7 +16,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:hachioji-20251011@library
-DTSTAMP:20251011T000000Z
+DTSTAMP:20251011T000008Z
 SUMMARY:返却：1冊 / 取置：1件
 DESCRIPTION:【返却（更新不可）】\n・技術革新と不平等の1000年史\n\n【取置】\n・悪文の構造
 DTSTART;VALUE=DATE:20251011
@@ -25,7 +25,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:hachioji-20251017@library
-DTSTAMP:20251017T000000Z
+DTSTAMP:20251017T000008Z
 SUMMARY:返却：9冊
 DESCRIPTION:【返却（更新不可）】\n・TwitterからXへ 世界から青い鳥が消えた日\n・エリート過剰生産が国家を滅ぼす\n・ソニー×ホンダ\n・ヒトラーとプロパガンダ\n・ロボット倫理学\n・奈良時代の日本語\n・皇室とメディア\n・言葉を復元する\n・電気自動車は本当にエコなのか
 DTSTART;VALUE=DATE:20251017
