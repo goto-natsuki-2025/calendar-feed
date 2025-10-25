@@ -41,10 +41,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hachioji-20251031@library
 DTSTAMP:20251018T031001Z
-SEQUENCE:0
-LAST-MODIFIED:20251018T031001Z
+SEQUENCE:1
+LAST-MODIFIED:20251025T031529Z
 SUMMARY:返却：12冊
-DESCRIPTION:【返却（更新可）】\n・SF脳とリアル脳\n・THE COMING WAVE\n・エヌビディア\n・カナダ\n・コンビニ全史\n・世界最凶のスパイウェア・ペガサス\n・地域公共交通政策論\n・政治家の収支\n・日米首脳会談\n・集中講義!アメリカ現代思想\n・食料安全保障の研究\n\n【返却（更新不可）】\n・日本政治学史
+DESCRIPTION:【返却（更新不可）】\n・SF脳とリアル脳\n・THE COMING WAVE\n・エヌビディア\n・カナダ\n・コンビニ全史\n・世界最凶のスパイウェア・ペガサス\n・地域公共交通政策論\n・政治家の収支\n・日本政治学史\n・日米首脳会談\n・集中講義!アメリカ現代思想\n・食料安全保障の研究
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 END:VEVENT
