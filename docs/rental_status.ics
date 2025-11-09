@@ -37,4 +37,15 @@ DESCRIPTION:【取置】\n・宇宙墓碑
 DTSTART;VALUE=DATE:20251116
 DTEND;VALUE=DATE:20251117
 END:VEVENT
+
+BEGIN:VEVENT
+UID:hachioji-20251118@library
+DTSTAMP:20251109T032032Z
+SEQUENCE:0
+LAST-MODIFIED:20251109T032032Z
+SUMMARY:取置：12件
+DESCRIPTION:【取置】\n・AI経済の勝者\n・「夢のエネルギー」核融合の最終解答\n・「左翼革命」と自民党崩壊\n・アメリカ・イン・ジャパン\n・エビデンスを嫌う人たち\n・ギャンブル脳\n・ニュートン先生の統計講義\n・フェイクニュース時代の科学リテラシー超入門\n・創価学会秘録\n・実録・自民裏金取材\n・私はこう考える\n・資本主義で解決する再生可能エネルギー
+DTSTART;VALUE=DATE:20251118
+DTEND;VALUE=DATE:20251119
+END:VEVENT
 END:VCALENDAR
