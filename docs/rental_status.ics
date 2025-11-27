@@ -8,10 +8,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:hachioji-20251205@library
 DTSTAMP:20251121T032022Z
-SEQUENCE:1
-LAST-MODIFIED:20251123T032932Z
-SUMMARY:返却：4冊
-DESCRIPTION:【返却（更新不可）】\n・フェイクニュース時代の科学リテラシー超入門\n・創価学会秘録\n・私はこう考える\n・資本主義で解決する再生可能エネルギー
+SEQUENCE:2
+LAST-MODIFIED:20251127T032032Z
+SUMMARY:返却：4冊 / 取置：1件
+DESCRIPTION:【返却（更新不可）】\n・フェイクニュース時代の科学リテラシー超入門\n・創価学会秘録\n・私はこう考える\n・資本主義で解決する再生可能エネルギー\n\n【取置】\n・凶鳥<フッケバイン>
 DTSTART;VALUE=DATE:20251205
 DTEND;VALUE=DATE:20251206
 END:VEVENT
