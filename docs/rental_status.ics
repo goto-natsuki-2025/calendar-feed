@@ -6,24 +6,13 @@ METHOD:PUBLISH
 X-WR-CALNAME:八王子市図書館 返却期限
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:hachioji-20251205@library
-DTSTAMP:20251121T032022Z
-SEQUENCE:2
-LAST-MODIFIED:20251127T032032Z
-SUMMARY:返却：4冊 / 取置：1件
-DESCRIPTION:【返却（更新不可）】\n・フェイクニュース時代の科学リテラシー超入門\n・創価学会秘録\n・私はこう考える\n・資本主義で解決する再生可能エネルギー\n\n【取置】\n・凶鳥<フッケバイン>
-DTSTART;VALUE=DATE:20251205
-DTEND;VALUE=DATE:20251206
-END:VEVENT
-
-BEGIN:VEVENT
-UID:hachioji-20251206@library
-DTSTAMP:20251123T032932Z
-SEQUENCE:1
-LAST-MODIFIED:20251128T032020Z
-SUMMARY:返却：1冊 / 取置：11件
-DESCRIPTION:【返却（更新不可）】\n・誤解を招いたとしたら申し訳ない\n\n【取置】\n・ANAのカイゼン\n・NTTの叛乱\n・スマートシティはなぜ失敗するのか\n・ロケットサバイバル2030\n・半導体ビジネス最前線\n・皇室典範\n・結果を出す組織は、どんな会議をしているのか?\n・脂肪と人類\n・起源でたどる日本語表現事典\n・転売ヤー闇の経済学\n・選挙との対話
-DTSTART;VALUE=DATE:20251206
-DTEND;VALUE=DATE:20251207
+UID:hachioji-20251213@library
+DTSTAMP:20251130T032839Z
+SEQUENCE:0
+LAST-MODIFIED:20251130T032839Z
+SUMMARY:返却：12冊
+DESCRIPTION:【返却（更新可）】\n・ANAのカイゼン\n・NTTの叛乱\n・スマートシティはなぜ失敗するのか\n・ロケットサバイバル2030\n・凶鳥<フッケバイン>\n・半導体ビジネス最前線\n・皇室典範\n・結果を出す組織は、どんな会議をしているのか?\n・脂肪と人類\n・起源でたどる日本語表現事典\n・転売ヤー闇の経済学\n・選挙との対話
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
 END:VEVENT
 END:VCALENDAR
