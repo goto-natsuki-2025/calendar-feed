@@ -8,10 +8,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:hachioji-20251213@library
 DTSTAMP:20251130T032839Z
-SEQUENCE:0
-LAST-MODIFIED:20251130T032839Z
+SEQUENCE:1
+LAST-MODIFIED:20251204T032558Z
 SUMMARY:返却：12冊
-DESCRIPTION:【返却（更新可）】\n・ANAのカイゼン\n・NTTの叛乱\n・スマートシティはなぜ失敗するのか\n・ロケットサバイバル2030\n・凶鳥<フッケバイン>\n・半導体ビジネス最前線\n・皇室典範\n・結果を出す組織は、どんな会議をしているのか?\n・脂肪と人類\n・起源でたどる日本語表現事典\n・転売ヤー闇の経済学\n・選挙との対話
+DESCRIPTION:【返却（更新可）】\n・ANAのカイゼン\n・NTTの叛乱\n・スマートシティはなぜ失敗するのか\n・ロケットサバイバル2030\n・凶鳥<フッケバイン>\n・半導体ビジネス最前線\n・皇室典範\n・結果を出す組織は、どんな会議をしているのか?\n・脂肪と人類\n・起源でたどる日本語表現事典\n・選挙との対話\n\n【返却（更新不可）】\n・転売ヤー闇の経済学
 DTSTART;VALUE=DATE:20251213
 DTEND;VALUE=DATE:20251214
 END:VEVENT
