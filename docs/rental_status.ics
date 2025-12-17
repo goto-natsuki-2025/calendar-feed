@@ -19,10 +19,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hachioji-20251228@library
 DTSTAMP:20251215T032920Z
-SEQUENCE:0
-LAST-MODIFIED:20251215T032920Z
+SEQUENCE:1
+LAST-MODIFIED:20251217T032619Z
 SUMMARY:返却：12冊
-DESCRIPTION:【返却（更新可）】\n・やさしい日本語ってなんだろう\n・シリーズ<日本語の語彙>\n・シリーズ<日本語の語彙>\n・ブック・ウォーズ\n・ベーシックサービス\n・ルポ国威発揚\n・ロベスピエール\n・ヴィクトリア朝時代のインターネット\n・法の人類史\n・生成AIの脅威\n\n【返却（更新不可）】\n・ことばの番人\n・飛脚は何を運んだのか
+DESCRIPTION:【返却（更新可）】\n・やさしい日本語ってなんだろう\n・シリーズ<日本語の語彙>\n・シリーズ<日本語の語彙>\n・ブック・ウォーズ\n・ベーシックサービス\n・ルポ国威発揚\n・ロベスピエール\n・ヴィクトリア朝時代のインターネット\n・生成AIの脅威\n\n【返却（更新不可）】\n・ことばの番人\n・法の人類史\n・飛脚は何を運んだのか
 DTSTART;VALUE=DATE:20251228
 DTEND;VALUE=DATE:20251229
 END:VEVENT
