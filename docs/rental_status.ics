@@ -19,10 +19,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hachioji-20260116@library
 DTSTAMP:20251226T032847Z
-SEQUENCE:1
-LAST-MODIFIED:20251228T033034Z
-SUMMARY:返却：6冊
-DESCRIPTION:【返却（更新不可）】\n・シリーズ<日本語の語彙>\n・ブック・ウォーズ\n・ベーシックサービス\n・ルポ国威発揚\n・ロベスピエール\n・生成AIの脅威
+SEQUENCE:2
+LAST-MODIFIED:20260109T032915Z
+SUMMARY:返却：6冊 / 取置：1件
+DESCRIPTION:【返却（更新不可）】\n・シリーズ<日本語の語彙>\n・ブック・ウォーズ\n・ベーシックサービス\n・ルポ国威発揚\n・ロベスピエール\n・生成AIの脅威\n\n【取置】\n・西洋の敗北
 DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260117
 END:VEVENT
