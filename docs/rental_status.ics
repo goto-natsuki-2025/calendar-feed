@@ -6,23 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:八王子市図書館 返却期限
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:hachioji-20260130@library
-DTSTAMP:20260116T032932Z
-SEQUENCE:2
-LAST-MODIFIED:20260126T033518Z
-SUMMARY:返却：1冊
-DESCRIPTION:【返却（更新不可）】\n・道徳は進歩する
-DTSTART;VALUE=DATE:20260130
-DTEND;VALUE=DATE:20260131
-END:VEVENT
-
-BEGIN:VEVENT
 UID:hachioji-20260208@library
 DTSTAMP:20260126T033518Z
-SEQUENCE:0
-LAST-MODIFIED:20260126T033518Z
-SUMMARY:返却：12冊
-DESCRIPTION:【返却（更新可）】\n・SHAPE\n・ゆたかさをどう測るか\n・コミンテルン\n・トランプ2.0\n・マネーの世界史\n・反中絶の極右たち\n・数学はそんなものじゃない!\n・日本の国家予算\n・私とスパイの物語\n・貧困とは何か\n・近代日本の対中国感情\n・陸軍作戦部長田中新一
+SEQUENCE:1
+LAST-MODIFIED:20260201T035428Z
+SUMMARY:返却：9冊
+DESCRIPTION:【返却（更新可）】\n・SHAPE\n・コミンテルン\n・トランプ2.0\n・マネーの世界史\n・数学はそんなものじゃない!\n・私とスパイの物語\n・貧困とは何か\n・近代日本の対中国感情\n・陸軍作戦部長田中新一
 DTSTART;VALUE=DATE:20260208
 DTEND;VALUE=DATE:20260209
 END:VEVENT
