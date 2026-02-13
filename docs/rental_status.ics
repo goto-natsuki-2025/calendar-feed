@@ -15,4 +15,15 @@ DESCRIPTION:【返却（更新不可）】\n・SHAPE\n・コミンテルン\n・
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260221
 END:VEVENT
+
+BEGIN:VEVENT
+UID:hachioji-20260221@library
+DTSTAMP:20260213T034821Z
+SEQUENCE:0
+LAST-MODIFIED:20260213T034821Z
+SUMMARY:取置：12件
+DESCRIPTION:【取置】\n・2040年の防災DX\n・サイバースペースの地政学\n・パンデミックの航跡\n・ピークアウトする中国\n・ブルーインパルス\n・プロテウス・オペレーション\n・京都占領\n・出雲神話の正体\n・占領期日本三つの闇\n・役に立たないロボット\n・日本の国民皆保険\n・航空管制過密空港は警告する
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+END:VEVENT
 END:VCALENDAR
