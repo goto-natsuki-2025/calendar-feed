@@ -8,10 +8,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:hachioji-20260301@library
 DTSTAMP:20260216T034940Z
-SEQUENCE:0
-LAST-MODIFIED:20260216T034940Z
-SUMMARY:返却：12冊
-DESCRIPTION:【返却（更新可）】\n・2040年の防災DX\n・サイバースペースの地政学\n・パンデミックの航跡\n・ピークアウトする中国\n・ブルーインパルス\n・プロテウス・オペレーション\n・京都占領\n・出雲神話の正体\n・占領期日本三つの闇\n・役に立たないロボット\n・日本の国民皆保険\n・航空管制過密空港は警告する
+SEQUENCE:1
+LAST-MODIFIED:20260222T034607Z
+SUMMARY:返却：9冊
+DESCRIPTION:【返却（更新可）】\n・2040年の防災DX\n・サイバースペースの地政学\n・パンデミックの航跡\n・ブルーインパルス\n・京都占領\n・出雲神話の正体\n・占領期日本三つの闇\n・役に立たないロボット\n・航空管制過密空港は警告する
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260302
 END:VEVENT
