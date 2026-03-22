@@ -17,13 +17,13 @@ DTEND;VALUE=DATE:20260327
 END:VEVENT
 
 BEGIN:VEVENT
-UID:hachioji-20260327@library
-DTSTAMP:20260319T034946Z
+UID:hachioji-20260404@library
+DTSTAMP:20260322T034927Z
 SEQUENCE:0
-LAST-MODIFIED:20260319T034946Z
-SUMMARY:取置：12件
-DESCRIPTION:【取置】\n・2030年の戦争\n・リンカン\n・内調\n・厨房から見たロシア\n・国連入門\n・女性政治家が増えたら何が変わるのか\n・性格診断ブームを問う\n・憎悪と破壊と残酷の世界史\n・東京大空襲を指揮した男カーティス・ルメイ\n・課税と脱税の経済史\n・金融詐欺の世界史\n・韓国大乱
-DTSTART;VALUE=DATE:20260327
-DTEND;VALUE=DATE:20260328
+LAST-MODIFIED:20260322T034927Z
+SUMMARY:返却：12冊
+DESCRIPTION:【返却（更新可）】\n・2030年の戦争\n・リンカン\n・内調\n・厨房から見たロシア\n・国連入門\n・女性政治家が増えたら何が変わるのか\n・性格診断ブームを問う\n・憎悪と破壊と残酷の世界史\n・東京大空襲を指揮した男カーティス・ルメイ\n・課税と脱税の経済史\n・金融詐欺の世界史\n・韓国大乱
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
 END:VEVENT
 END:VCALENDAR
