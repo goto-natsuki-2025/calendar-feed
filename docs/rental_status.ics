@@ -6,23 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:八王子市図書館 返却期限
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:hachioji-20260429@library
-DTSTAMP:20260415T035948Z
-SEQUENCE:1
-LAST-MODIFIED:20260419T040116Z
-SUMMARY:返却：3冊
-DESCRIPTION:【返却（更新不可）】\n・ロボットビジネス\n・日本のオートバイの歴史\n・日系アメリカ人強制収容からの<帰還>
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260430
-END:VEVENT
-
-BEGIN:VEVENT
 UID:hachioji-20260502@library
 DTSTAMP:20260419T040116Z
-SEQUENCE:0
-LAST-MODIFIED:20260419T040116Z
-SUMMARY:返却：12冊
-DESCRIPTION:【返却（更新可）】\n・Breaking Twitter\n・IOWNの正体\n・NO RULES\n・「手取りを増やす政治」が日本を変える\n・こんなにひどい自衛隊生活\n・デザイン経営\n・中国皇帝の条件\n・中華とは何か\n・冷戦史\n・沖縄戦\n・生成AI活用の最前線\n・英語と明治維新
+SEQUENCE:1
+LAST-MODIFIED:20260426T040651Z
+SUMMARY:返却：11冊
+DESCRIPTION:【返却（更新可）】\n・Breaking Twitter\n・IOWNの正体\n・NO RULES\n・「手取りを増やす政治」が日本を変える\n・デザイン経営\n・中国皇帝の条件\n・中華とは何か\n・冷戦史\n・沖縄戦\n・生成AI活用の最前線\n・英語と明治維新
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
 END:VEVENT
