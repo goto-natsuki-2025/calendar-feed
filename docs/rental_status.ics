@@ -26,4 +26,15 @@ DESCRIPTION:【取置】\n・2040年の未来予測\n・意味がわかる統計
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 END:VEVENT
+
+BEGIN:VEVENT
+UID:hachioji-20260524@library
+DTSTAMP:20260516T041042Z
+SEQUENCE:0
+LAST-MODIFIED:20260516T041042Z
+SUMMARY:取置：10件
+DESCRIPTION:【取置】\n・SFと空想の科学\n・不平等・所得格差の経済学\n・原子力はいる?いらない?\n・暴走するウクライナ戦争\n・検証異次元緩和\n・死刑について私たちが知っておくべきこと\n・秩序崩壊\n・行動経済学の死\n・過疎ビジネス\n・集団はなぜ残酷にまた慈悲深くなるのか
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+END:VEVENT
 END:VCALENDAR
