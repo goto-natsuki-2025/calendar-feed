@@ -6,23 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:八王子市図書館 返却期限
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:hachioji-20260611@library
-DTSTAMP:20260528T042553Z
-SEQUENCE:2
-LAST-MODIFIED:20260608T042759Z
-SUMMARY:返却：4冊
-DESCRIPTION:【返却（更新不可）】\n・SFと空想の科学\n・原子力はいる?いらない?\n・意味がわかる統計学\n・検証異次元緩和
-DTSTART;VALUE=DATE:20260611
-DTEND;VALUE=DATE:20260612
-END:VEVENT
-
-BEGIN:VEVENT
 UID:hachioji-20260621@library
 DTSTAMP:20260608T042759Z
-SEQUENCE:0
-LAST-MODIFIED:20260608T042759Z
-SUMMARY:返却：12冊
-DESCRIPTION:【返却（更新可）】\n・ゆれる日本語、それでもゆるがない日本語\n・インフラメンテナンス大変革\n・カジノ列島ニッポン\n・コトラーの起業家的マーケティング\n・マッドサイエンティスト図鑑\n・侍女の物語\n・原子力安全の基本\n・国産トラックの20世紀\n・政治哲学講義\n・書くことのメディア史\n・自動車ビジネス\n・関係人口
+SEQUENCE:1
+LAST-MODIFIED:20260613T042732Z
+SUMMARY:返却：11冊
+DESCRIPTION:【返却（更新可）】\n・ゆれる日本語、それでもゆるがない日本語\n・インフラメンテナンス大変革\n・カジノ列島ニッポン\n・コトラーの起業家的マーケティング\n・マッドサイエンティスト図鑑\n・原子力安全の基本\n・国産トラックの20世紀\n・政治哲学講義\n・書くことのメディア史\n・自動車ビジネス\n・関係人口
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
 END:VEVENT
