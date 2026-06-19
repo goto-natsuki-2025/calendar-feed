@@ -6,13 +6,13 @@ METHOD:PUBLISH
 X-WR-CALNAME:八王子市図書館 返却期限
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:hachioji-20260621@library
-DTSTAMP:20260608T042759Z
-SEQUENCE:1
-LAST-MODIFIED:20260613T042732Z
+UID:hachioji-20260703@library
+DTSTAMP:20260619T042926Z
+SEQUENCE:0
+LAST-MODIFIED:20260619T042926Z
 SUMMARY:返却：11冊
-DESCRIPTION:【返却（更新可）】\n・ゆれる日本語、それでもゆるがない日本語\n・インフラメンテナンス大変革\n・カジノ列島ニッポン\n・コトラーの起業家的マーケティング\n・マッドサイエンティスト図鑑\n・原子力安全の基本\n・国産トラックの20世紀\n・政治哲学講義\n・書くことのメディア史\n・自動車ビジネス\n・関係人口
-DTSTART;VALUE=DATE:20260621
-DTEND;VALUE=DATE:20260622
+DESCRIPTION:【返却（更新不可）】\n・ゆれる日本語、それでもゆるがない日本語\n・インフラメンテナンス大変革\n・カジノ列島ニッポン\n・コトラーの起業家的マーケティング\n・マッドサイエンティスト図鑑\n・原子力安全の基本\n・国産トラックの20世紀\n・政治哲学講義\n・書くことのメディア史\n・自動車ビジネス\n・関係人口
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
 END:VEVENT
 END:VCALENDAR
