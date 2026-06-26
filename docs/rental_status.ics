@@ -15,4 +15,15 @@ DESCRIPTION:【返却（更新不可）】\n・ゆれる日本語、それでも
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 END:VEVENT
+
+BEGIN:VEVENT
+UID:hachioji-20260704@library
+DTSTAMP:20260626T042552Z
+SEQUENCE:0
+LAST-MODIFIED:20260626T042552Z
+SUMMARY:取置：12件
+DESCRIPTION:【取置】\n・わかりあえないイギリス\n・アウシュヴィッツ脱出\n・アメリカのいちばん長い戦争\n・ウィンストン・チャーチル\n・チョルノービリ・マニュアル\n・世界の炎上\n・会社と株主の世界史\n・新聞と戦争\n・日本政治の大問題\n・日本文化は絶滅するのか\n・競争なきアメリカ\n・都市の世界史
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+END:VEVENT
 END:VCALENDAR
