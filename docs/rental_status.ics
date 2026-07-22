@@ -19,10 +19,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hachioji-20260804@library
 DTSTAMP:20260720T055641Z
-SEQUENCE:0
-LAST-MODIFIED:20260720T055641Z
+SEQUENCE:1
+LAST-MODIFIED:20260722T053707Z
 SUMMARY:返却：13冊
-DESCRIPTION:【返却（更新不可）】\n・GHQは日本の宗教をどう変えたのか\n・NEXUS情報の人類史\n・なっとく!アルゴリズム\n・エヌビディアの流儀\n・ロシア政治\n・国防の地政学\n・宮内庁長官\n・戦争特派員は見た\n・戦闘力\n・昭和20年8月15日\n・特攻\n・立ち読みの歴史\n・考える機械たち
+DESCRIPTION:【返却（更新可）】\n・GHQは日本の宗教をどう変えたのか\n・なっとく!アルゴリズム\n・エヌビディアの流儀\n・国防の地政学\n・宮内庁長官\n・戦争特派員は見た\n・戦闘力\n・昭和20年8月15日\n・特攻\n・立ち読みの歴史\n・考える機械たち\n\n【返却（更新不可）】\n・NEXUS情報の人類史\n・ロシア政治
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
 END:VEVENT
