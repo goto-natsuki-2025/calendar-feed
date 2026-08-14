@@ -19,10 +19,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hachioji-20260822@library
 DTSTAMP:20260809T040626Z
-SEQUENCE:0
-LAST-MODIFIED:20260809T040626Z
-SUMMARY:返却：1冊
-DESCRIPTION:【返却（更新不可）】\n・サイコロジー・オブ・マネー
+SEQUENCE:1
+LAST-MODIFIED:20260814T043907Z
+SUMMARY:返却：1冊 / 取置：12件
+DESCRIPTION:【返却（更新不可）】\n・サイコロジー・オブ・マネー\n\n【取置】\n・SNS選挙という罠\n・ウィーン1938年最後の日々\n・ザ・シークレット・ナンバーズ\n・ティッピング・ポイント\n・ルポ・韓国戒厳令\n・全人類の教養大全\n・原子爆弾\n・政治資金規正法\n・検証治安維持法\n・海底の覇権争奪\n・男女賃金格差の経済学\n・祖父の見た陸軍中野学校
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 END:VEVENT
