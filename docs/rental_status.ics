@@ -19,10 +19,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hachioji-20260913@library
 DTSTAMP:20260830T083419Z
-SEQUENCE:0
-LAST-MODIFIED:20260830T083419Z
+SEQUENCE:1
+LAST-MODIFIED:20260831T085719Z
 SUMMARY:返却：13冊
-DESCRIPTION:【返却（更新不可）】\n・「キノコ雲」の上と下の物語\n・八重山の1945年\n・南京事件\n・南方抑留\n・太平洋戦争の収支決算報告\n・日本の食料安全保障とはなにか?\n・日本語はひとりでは生きていけない\n・日本軍慰安婦\n・次期戦闘機の政治史\n・福音派\n・自由\n・菊と星\n・資本主義リアリズム
+DESCRIPTION:【返却（更新可）】\n・「キノコ雲」の上と下の物語\n・八重山の1945年\n・南京事件\n・南方抑留\n・太平洋戦争の収支決算報告\n・日本の食料安全保障とはなにか?\n・日本語はひとりでは生きていけない\n・日本軍慰安婦\n・次期戦闘機の政治史\n・菊と星\n・資本主義リアリズム\n\n【返却（更新不可）】\n・福音派\n・自由
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 END:VEVENT
