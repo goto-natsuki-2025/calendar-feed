@@ -19,10 +19,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hachioji-20261003@library
 DTSTAMP:20260919T073413Z
-SEQUENCE:0
-LAST-MODIFIED:20260919T073413Z
+SEQUENCE:1
+LAST-MODIFIED:20260920T075659Z
 SUMMARY:返却：12冊
-DESCRIPTION:【返却（更新不可）】\n・「日本スゴイ」の時代\n・ばらまき 選挙と裏金\n・テレビが終わる日\n・入門政治思想史\n・天気予報はなぜ当たるようになったのか\n・実利論\n・帝国陸軍\n・昭和期の陸軍\n・生成AIで映画を作ってみた\n・経済とイデオロギーが引き起こす戦争\n・親中派80年の噓\n・遺伝子は不滅である
+DESCRIPTION:【返却（更新可）】\n・「日本スゴイ」の時代\n・ばらまき 選挙と裏金\n・テレビが終わる日\n・入門政治思想史\n・実利論\n・帝国陸軍\n・昭和期の陸軍\n・生成AIで映画を作ってみた\n・経済とイデオロギーが引き起こす戦争\n・親中派80年の噓\n・遺伝子は不滅である\n\n【返却（更新不可）】\n・天気予報はなぜ当たるようになったのか
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 END:VEVENT
