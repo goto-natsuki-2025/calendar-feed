@@ -10,7 +10,7 @@ UID:2024-09-01@nomura-webloan-rate
 DTSTAMP:20261010T062056Z
 SEQUENCE:0
 LAST-MODIFIED:20261010T062056Z
-SUMMARY:野村Webローン利率改定 1.50%→1.65%
+SUMMARY:ローン:1.65%
 DESCRIPTION:改定前: 年1.50%\n改定後: 年1.65%\n出典: https://www.n
  omura-trust.co.jp/news/detail/web_3.html\n取得日時: 2026-10-10 15:20
 URL:https://www.nomura-trust.co.jp/news/detail/web_3.html
@@ -24,7 +24,7 @@ UID:2025-03-03@nomura-webloan-rate
 DTSTAMP:20261010T062100Z
 SEQUENCE:0
 LAST-MODIFIED:20261010T062100Z
-SUMMARY:野村Webローン利率改定 1.65%→1.90%
+SUMMARY:ローン:1.90%
 DESCRIPTION:改定前: 年1.65%\n改定後: 年1.90%\n出典: https://www.n
  omura-trust.co.jp/news/detail/web_6.html\n取得日時: 2026-10-10 15:21
 URL:https://www.nomura-trust.co.jp/news/detail/web_6.html
@@ -38,7 +38,7 @@ UID:2026-03-16@nomura-webloan-rate
 DTSTAMP:20261010T062102Z
 SEQUENCE:0
 LAST-MODIFIED:20261010T062102Z
-SUMMARY:野村Webローン利率改定 1.90%→2.15%
+SUMMARY:ローン:2.15%
 DESCRIPTION:改定前: 年1.90%\n改定後: 年2.15%\n出典: https://www.n
  omura-trust.co.jp/news/detail/web_8.html\n取得日時: 2026-10-10 15:21
 URL:https://www.nomura-trust.co.jp/news/detail/web_8.html
@@ -52,7 +52,7 @@ UID:2026-07-15@nomura-webloan-rate
 DTSTAMP:20261010T062103Z
 SEQUENCE:0
 LAST-MODIFIED:20261010T062103Z
-SUMMARY:野村Webローン利率改定 2.15%→2.40%
+SUMMARY:ローン:2.40%
 DESCRIPTION:改定前: 年2.15%\n改定後: 年2.40%\n出典: https://www.n
  omura-trust.co.jp/news/detail/web_9.html\n取得日時: 2026-10-10 15:21
 URL:https://www.nomura-trust.co.jp/news/detail/web_9.html
@@ -66,7 +66,7 @@ UID:2026-10-15@nomura-webloan-rate
 DTSTAMP:20261010T062104Z
 SEQUENCE:0
 LAST-MODIFIED:20261010T062104Z
-SUMMARY:野村Webローン利率改定 2.40%→2.65%
+SUMMARY:ローン:2.65%
 DESCRIPTION:改定前: 年2.40%\n改定後: 年2.65%\n出典: https://www.n
  omura-trust.co.jp/news/detail/web_10.html\n取得日時: 2026-10-10 15:21
 URL:https://www.nomura-trust.co.jp/news/detail/web_10.html
