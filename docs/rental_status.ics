@@ -6,23 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:八王子市図書館 返却期限
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:hachioji-20261015@library
-DTSTAMP:20261001T092850Z
-SEQUENCE:1
-LAST-MODIFIED:20261010T090814Z
-SUMMARY:返却：2冊
-DESCRIPTION:【返却（更新不可）】\n・ばらまき 選挙と裏金\n・遺伝子は不滅である
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-END:VEVENT
-
-BEGIN:VEVENT
 UID:hachioji-20261024@library
 DTSTAMP:20261010T090814Z
-SEQUENCE:1
-LAST-MODIFIED:20261011T092128Z
-SUMMARY:返却：12冊
-DESCRIPTION:【返却（更新可）】\n・<国防>の日本近現代史\n・“一億特攻”への道\n・「正しさ」の商人\n・イノベーション普及する条件\n・プロパガンダ\n・世にも奇妙な日本語の謎\n・側近が見た昭和天皇\n・原子力の現在地\n・技術者天国\n・機械ビジネス\n・紅い皇帝習近平\n・蔣介石
+SEQUENCE:2
+LAST-MODIFIED:20261017T071350Z
+SUMMARY:返却：11冊
+DESCRIPTION:【返却（更新可）】\n・<国防>の日本近現代史\n・“一億特攻”への道\n・「正しさ」の商人\n・イノベーション普及する条件\n・プロパガンダ\n・世にも奇妙な日本語の謎\n・側近が見た昭和天皇\n・原子力の現在地\n・技術者天国\n・機械ビジネス\n・蔣介石
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 END:VEVENT
