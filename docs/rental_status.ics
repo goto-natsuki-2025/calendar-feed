@@ -8,10 +8,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:hachioji-20261106@library
 DTSTAMP:20261023T075946Z
-SEQUENCE:0
-LAST-MODIFIED:20261023T075946Z
-SUMMARY:返却：11冊
-DESCRIPTION:【返却（更新不可）】\n・<国防>の日本近現代史\n・“一億特攻”への道\n・「正しさ」の商人\n・イノベーション普及する条件\n・プロパガンダ\n・世にも奇妙な日本語の謎\n・側近が見た昭和天皇\n・原子力の現在地\n・技術者天国\n・機械ビジネス\n・蔣介石
+SEQUENCE:1
+LAST-MODIFIED:20261024T073845Z
+SUMMARY:返却：8冊
+DESCRIPTION:【返却（更新不可）】\n・<国防>の日本近現代史\n・“一億特攻”への道\n・「正しさ」の商人\n・側近が見た昭和天皇\n・原子力の現在地\n・技術者天国\n・機械ビジネス\n・蔣介石
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 END:VEVENT
