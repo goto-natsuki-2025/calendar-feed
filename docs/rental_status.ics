@@ -15,4 +15,15 @@ DESCRIPTION:【返却（更新不可）】\n・「正しさ」の商人\n・機�
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 END:VEVENT
+
+BEGIN:VEVENT
+UID:hachioji-20261114@library
+DTSTAMP:20261106T095925Z
+SEQUENCE:0
+LAST-MODIFIED:20261106T095925Z
+SUMMARY:取置：12件
+DESCRIPTION:【取置】\n・なぜ教員の質が低下しているのか\n・サイコパス\n・トラックのすべて\n・リベラリズムの捕食者\n・分断八〇年\n・天皇と皇族\n・天皇家の存続と継承\n・未来への負債\n・神と科学\n・私たちはなぜ法に従うのか\n・自衛隊に告ぐ\n・認知戦
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+END:VEVENT
 END:VCALENDAR
