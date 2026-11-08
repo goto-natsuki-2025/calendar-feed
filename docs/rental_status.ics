@@ -6,23 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:八王子市図書館 返却期限
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:hachioji-20261106@library
-DTSTAMP:20261023T075946Z
-SEQUENCE:2
-LAST-MODIFIED:20261102T100740Z
-SUMMARY:返却：3冊
-DESCRIPTION:【返却（更新不可）】\n・「正しさ」の商人\n・機械ビジネス\n・蔣介石
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-END:VEVENT
-
-BEGIN:VEVENT
 UID:hachioji-20261121@library
 DTSTAMP:20261107T091920Z
-SEQUENCE:0
-LAST-MODIFIED:20261107T091920Z
+SEQUENCE:1
+LAST-MODIFIED:20261108T093721Z
 SUMMARY:返却：12冊
-DESCRIPTION:【返却（更新不可）】\n・なぜ教員の質が低下しているのか\n・サイコパス\n・トラックのすべて\n・リベラリズムの捕食者\n・分断八〇年\n・天皇と皇族\n・天皇家の存続と継承\n・未来への負債\n・神と科学\n・私たちはなぜ法に従うのか\n・自衛隊に告ぐ\n・認知戦
+DESCRIPTION:【返却（更新可）】\n・なぜ教員の質が低下しているのか\n・サイコパス\n・トラックのすべて\n・リベラリズムの捕食者\n・分断八〇年\n・天皇と皇族\n・天皇家の存続と継承\n・未来への負債\n・神と科学\n・私たちはなぜ法に従うのか\n・自衛隊に告ぐ\n・認知戦
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 END:VEVENT
